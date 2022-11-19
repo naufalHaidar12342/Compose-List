@@ -75,7 +75,7 @@ private val studentList= listOf(
     "Komeng",
     "Raffi Ahmad",
     "Andhika Pratama",
-    "Vincent Ryan Rompies"
+    "Haidar",
 )
 
 @Composable
